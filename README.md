@@ -128,8 +128,9 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Vija Amarnath Reddy**
-📧 [amarnath.vija@gmail.com](mailto:amarnath.vija@gmail.com)
+**Munilalithya Sana**
+Email:munilalithya@gmail.com
+
 🔗 LinkedIn | GitHub
 
 ---
