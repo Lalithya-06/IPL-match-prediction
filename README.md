@@ -6,7 +6,7 @@ A Machine Learning web application that predicts the winning probability of IPL 
 
 ## 🚀 Live Demo
 
-*(Add your deployed Streamlit link here)*
+https://ipl-match-prediction-m4vzw8wupges4bgmbpgfxq.streamlit.app/
 
 ---
 
